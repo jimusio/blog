@@ -37,7 +37,7 @@ molohub工具为大家搭建了完整的内网穿透服务, 而且用户端可�
 
 ### 安装
 
-![installmolohub2](/img/in-post/2019-04-17-Hass外网访问服务的工具__molohub/install.gif)
+![installmolohub2](/blog/img/in-post/2019-04-17-Hass外网访问服务的工具__molohub/install.gif)
 
 molohub是以hass component的形式呈现的, 并且没有第三方的python module的依赖, 所以对于直接pip安装hass, hassbain, hassio都可以方便使用.  
 1. 从项目[github](https://github.com/haoctopus/molohub)页面上下载项目源码压缩包并解压.
@@ -52,7 +52,7 @@ molohub:
 
 ### 多账户绑定
 
-![multimolohub2](/img/in-post/2019-04-17-Hass外网访问服务的工具__molohub/oAuth.gif)
+![multimolohub2](/blog/img/in-post/2019-04-17-Hass外网访问服务的工具__molohub/oAuth.gif)
 
 如果要多个账户绑定一个hass, 实现家人共同访问或自己多平台访问, 需要一些小技巧.  
 1. 将custom_components路径下的molohub代码复制一份并且给一个新的独一无二的文件夹名字.
@@ -61,7 +61,7 @@ molohub:
 
 ### 官方承诺
 
-![offical](/img/in-post/2019-04-17-Hass外网访问服务的工具__molohub/offical.png)
+![offical](/blog/img/in-post/2019-04-17-Hass外网访问服务的工具__molohub/offical.png)
 
 1. 全部使用https方式访问, 保证网络传输过程中的安全性.
 2. 至少1年免费使用.
