@@ -8,6 +8,8 @@ tags:
   - homeassistant
   - molohub
   - 远程访问
+featured-tags:
+  - homeassistant
 ---
 
 ## 为什么要外网访问Hass?
