@@ -1,5 +1,13 @@
 ---
-published: false
+published:  ture
+layout:     post
+title:      "远程访问Hass"
+date:       2019-04-17
+author:     "SchumyHao"
+tags:
+  - homeassistant
+  - molohub
+  - 远程访问
 ---
 
 ## 为什么要外网访问Hass?
