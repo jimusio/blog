@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "分享一些好用的智能家居工具的博客"
-sidebar-avatar: /img/jimusio.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /blog/img/jimusio.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
