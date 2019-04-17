@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email:
 description: "分享一些好用的智能家居工具的博客。"
 keyword: "jimus, Jimus, ioBroker, homeassistant, 智能家居, smarthome, 小米, homekit"
-url: "https://jimusio.github.io/blog/"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://jimusio.github.io"              # your host, for absolute URL
+baseurl: "/blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
